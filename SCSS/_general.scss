@@ -224,7 +224,7 @@
   .mobile{
       min-height: 864px;
       padding: 48px 0 79px 0;
-      background: url(/src/icons/Layer/10.png) center (center / cover) no-repeat;
+      background: url(../src/icons/Layer/10.png) center (center / cover) no-repeat;
       .row{
         margin-top: 21px;
       }
@@ -236,22 +236,22 @@
         margin-bottom: 19px;
         padding-top: 92px;
         &_1{
-          background: url(/src/img/19.png) center (center / cover) no-repeat;
+          background: url(../img/19.png) center (center / cover) no-repeat;
         }
         &_2{
-          background: url(/src/img/20.png) center (center / cover) no-repeat;
+          background: url(../img/20.png) center (center / cover) no-repeat;
         }
         &_3{
-          background: url(/src/img/21.png) center (center / cover) no-repeat;
+          background: url(../img/21.png) center (center / cover) no-repeat;
         }
         &_4{
-          background: url(/src/img/22.png) center (center / cover) no-repeat;
+          background: url(../img/22.png) center (center / cover) no-repeat;
         }
         &_5{
-          background: url(/src/img/23.png) center (center / cover) no-repeat;
+          background: url(../img/23.png) center (center / cover) no-repeat;
         }
         &_6{
-          background: url(/src/img/24.png) center (center / cover) no-repeat;
+          background: url(../img/24.png) center (center / cover) no-repeat;
         }
         &_subtitle{
           color: #fff;
@@ -368,7 +368,7 @@
           display: block;
           width: 21px;
           height: 20px;
-          background: url(/src/icons/done.png) center (center / cover) no-repeat;
+          background: url(../icons/done.png) center (center / cover) no-repeat;
         }
       }
     }
@@ -385,7 +385,7 @@
       .require_list{
         li{
           &:before{
-          background: url(/src/icons/notdone.png) center (center / cover) no-repeat;
+          background: url(../icons/notdone.png) center (center / cover) no-repeat;
           }
         }
       }
@@ -395,7 +395,7 @@
     min-height: 720px;
     background-color: #080816;
     padding: 51px 0;
-    background: url(/src/icons/bg_world.png) center (center / cover) no-repeat;
+    background: url(../icons/bg_world.png) center (center / cover) no-repeat;
     &_link{
       display: block;
       text-align: center;
